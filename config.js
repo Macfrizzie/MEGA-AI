@@ -19,7 +19,7 @@ for (let i = 0; i < ownerlist.length; i++) {
     global.owner.push([ownerlist[i], true]);
 }
 //
-global.botname = process.env.BOTNAME || 'MEGA-AI';
+global.botname = process.env.BOTNAME || 'EKSUBOT';
 global.mods = []
 global.prems = []
 global.allowed = ['2348037218414', '923051391007']
@@ -39,7 +39,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.canal = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
+global.canal = 'https://whatsapp.com/channel/0029Va4c0jLGpLHNfYJYyM1g'
 
 
 global.APIs = {
@@ -70,17 +70,16 @@ global.APIKeys = {
 
 // Sticker WM
 global.premium = 'true'
-global.packname = 'MEGA-AI'
+global.packname = 'Eksubot'
 global.author = 'GlobalTechInfo'
 global.menuvid = 'https://i.imgur.com/2U2K9YA.mp4'
-global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/global.techinfo'
-global.dygp = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
-global.fgsc = 'https://github.com/GlobalTechInfo/MEGA-AI'
+global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/eksubot'
+global.dygp = 'https://whatsapp.com/channel/0029Va4c0jLGpLHNfYJYyM1g'
+global.fgsc = 'https://github.com/Macfrizzie'
 global.fgyt = 'https://youtube.com/@GlobalTechInfo'
 global.fgpyp = 'https://youtube.com/@GlobalTechInfo'
-global.fglog = 'https://i.ibb.co/G2dh9cB/qasim.jpg'
-global.thumb = fs.readFileSync('./assets/A.jpg')
-
+global.fglog = 'https://telegra.ph/file/a5a07fa94d7106f7a969b.jpg'
+global.thumb = 'https://telegra.ph/file/a5a07fa94d7106f7a969b.jpg'
 global.wait = '⏳'
 global.rwait = '⏳'
 global.dmoji = '🤭'
